@@ -2,3 +2,4 @@
 *-main.py
 **/node_modules/**/*
 main_*.py
+0x08-making_change/test_edge_cases.py
